@@ -1,7 +1,7 @@
 ---
 theme: default
 favicon: /favicon.ico
-background: four_beasts.jpg
+background: /valley.jpg
 class: text-center
 lineNumbers: false
 info: |
@@ -13,7 +13,7 @@ presenter: true
 drawings:
   persist: false
 transition: slide-left
-title: Jesus and the Law of Israel - Session 8
+title: Jesus and the Law of Israel - Session 10
 mdc: true
 download: true
 export:
@@ -28,7 +28,7 @@ fonts:
 
 # Jesus and the Law of Israel
 
-## Session 9: Alien Animals in Israel’s House
+## Session 10: Alien Animals in Israel’s House
 
 ---
 layout: fact
