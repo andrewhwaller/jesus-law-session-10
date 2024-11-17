@@ -28,7 +28,7 @@ fonts:
 
 # Jesus and the Law of Israel
 
-## Session 10: Alien Animals in Israel’s House
+## Session 10: The Law and the Restoration of Israel
 
 ---
 layout: statement 
