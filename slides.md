@@ -136,6 +136,14 @@ Then he said to me, “Prophesy to the breath, prophesy, mortal, and say to the 
 I prophesied as he commanded me, and the breath came into them, and they lived, and stood on their feet, a vast multitude. 
 
 ---
+layout: gallery-frame
+image: /valley.jpg
+backgroundSize: contain
+work: The Vision of the Valley of The Dry Bones
+metadata: Gustave Doré, 1866
+---
+
+---
 layout: quote
 ---
 
